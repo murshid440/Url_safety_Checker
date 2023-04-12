@@ -19,17 +19,13 @@ git clone https://github.com/murshid440/Url_safety_Checker.git
 
 ```
 cd Url_safety_Checker
-
 ```
 
 
 3. Install the necessary Python packages:
 
 <pre>
-```
 pip install -r requirements.txt
-
-```
 </pre>
 
 
@@ -45,13 +41,10 @@ Create an account for this services and obtain API keys.
 Replace the placeholders in the main() function with your corresponding API keys:
 
 <pre>
-```
 google_safe_browsing_api_key = "<YOUR_API_KEY_HERE>"
 virustotal_api_key = "<YOUR_API_KEY_HERE>"
 ibm_xforce_api_key = "<YOUR_API_KEY_HERE>"
 ibm_xforce_api_password = "<YOUR_API_PASSWORD_HERE>"
-
-```
 </pre>
 
 5. Usage
@@ -59,10 +52,7 @@ ibm_xforce_api_password = "<YOUR_API_PASSWORD_HERE>"
 Execute the script with the following command:
 
 <pre>
-```
 python main.py
-
-```
 </pre>
 
 When prompted, input the URL you wish to analyze. The script will  assess the URL using various security APIs, determine if the domain is new, and examine the web page for suspicious keywords. Based on these evaluations, the script will provide a verdict on the safety of the URL.
