@@ -22,9 +22,9 @@ Python 3.8
 
 1. Clone this repository to your local machine:
 
-<pre>
+```
 git clone https://github.com/murshid440/Web-Threat-Intelligence-Analyzer.git
-</pre>
+```
 
 2. Navigate to the project directory:
 
@@ -36,9 +36,9 @@ cd Web-Threat-Intelligence-Analyzer
 
 3. Install the necessary Python packages:
 
-<pre>
+```
 pip install -r requirements.txt
-</pre>
+```
 
 
 4. Obtain API Keys
@@ -52,20 +52,20 @@ IBM X-Force Exchange
 Create an account for this services and obtain API keys.
 Replace the placeholders in the main() function with your corresponding API keys:
 
-<pre>
+```
 google_safe_browsing_api_key = "<YOUR_API_KEY_HERE>"
 virustotal_api_key = "<YOUR_API_KEY_HERE>"
 ibm_xforce_api_key = "<YOUR_API_KEY_HERE>"
 ibm_xforce_api_password = "<YOUR_API_PASSWORD_HERE>"
-</pre>
+```
 
 5. Usage
 
 Execute the script with the following command:
 
-<pre>
+```
 python main.py
-</pre>
+```
 
 When prompted, input the URL you wish to analyze. The script will  assess the URL using various security APIs, determine if the domain is new, and examine the web page for suspicious keywords. Based on these evaluations, the script will provide a verdict on the safety of the URL.
 
