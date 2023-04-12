@@ -1,6 +1,6 @@
-# URL Safety Checker
+# Web Threat Intelligence Analyzer
 
-The URL Safety Checker is a Python script designed to evaluate the safety of a given URL. It incorporates multiple security APIs, such as Google Safe Browsing, VirusTotal, and IBM X-Force Exchange, to assess the URL thoroughly. In addition to these security checks, the script verifies whether the domain is recently registered and scans the web page for any suspicious keywords. Main aim of this project is to build a project to protect from usual scams and phishing attempts. 
+The Web Threat Intelligence Analyzer is a Python script designed to evaluate the safety of a given URL. It incorporates multiple security APIs, such as Google Safe Browsing, VirusTotal, and IBM X-Force Exchange, to assess the URL thoroughly. In addition to these security checks, the script verifies whether the domain is recently registered and scans the web page for any suspicious keywords. Main aim of this project is to build a project to protect from usual scams and phishing attempts. 
 
 ## Prerequisites
 
@@ -11,14 +11,14 @@ Python 3.8
 1. Clone this repository to your local machine:
 
 <pre>
-git clone https://github.com/murshid440/Url_safety_Checker.git
+git clone https://github.com/murshid440/Web-Threat-Intelligence-Analyzer.git
 </pre>
 
 2. Navigate to the project directory:
 
 
 ```
-cd Url_safety_Checker
+cd Web-Threat-Intelligence-Analyzer
 ```
 
 
