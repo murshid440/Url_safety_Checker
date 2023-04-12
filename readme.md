@@ -3,10 +3,15 @@
 The Web Threat Intelligence Analyzer is an all-in-one solution designed to detect potential scams and malicious websites. Developed using Python, this project highlights the ability to employ a range of techniques and tools to ensure safe browsing experiences. The analyzer integrates various security APIs, including Google Safe Browsing, VirusTotal, and IBM X-Force Exchange, to perform in-depth assessments of the URLs. In addition to these comprehensive checks, it also examines whether the domain is recently registered and scrutinizes the website content for any suspicious keywords. The primary goal of this project is to create a reliable tool that helps users steer clear of prevalent scams and phishing threats, thereby demonstrating the technical aptitude and cybersecurity expertise required for effective threat detection and mitigation.Key accomplishments and technical skills showcased in this project include:
 
 •	Implemented multiple API integrations, including Google Safe Browsing, VirusTotal, and IBM X-Force Exchange, to assess the safety of a given URL.
+
 •	Utilized Python libraries such as Requests, BeautifulSoup, and Whois to extract and analyze website data for potential threats.
+
 •	Developed a custom function to identify suspicious keywords in website content, which may indicate a scam or phishing attempt.
+
 •	Analyzed domain registration data to detect newly registered domains, a potential indicator of phishing attempts or scams.
+
 •	Explored various methods for enhancing the project's capabilities, including machine learning-based phishing detection, SSL certificate verification, domain reputation assessment, and natural language processing for content analysis.
+
 •	Demonstrated strong proficiency in Python, web scraping, and API integration, as well as an understanding of common cybersecurity threats and detection methods.
 
 ## Prerequisites
