@@ -11,20 +11,17 @@ Python 3.8
 1. Clone this repository to your local machine:
 
 <pre>
-```
 git clone https://github.com/murshid440/Url_safety_Checker.git
-
-```
 </pre>
 
 2. Navigate to the project directory:
 
-<pre>
+
 ```
 cd Url_safety_Checker
 
 ```
-</pre>
+
 
 3. Install the necessary Python packages:
 
