@@ -10,9 +10,9 @@ The Web Threat Intelligence Analyzer is an all-in-one solution designed to detec
 
 •	Analyzed domain registration data to detect newly registered domains, a potential indicator of phishing attempts or scams.
 
-•	Explored various methods for enhancing the project's capabilities, including machine learning-based phishing detection, SSL certificate verification, domain reputation assessment, and natural language processing for content analysis.
+•	Explored various methods for enhancing the project's capabilities, including machine learning-based phishing detection, SSL certificate verification,       domain reputation assessment, and natural language processing for content analysis.
 
-•	Demonstrated strong proficiency in Python, web scraping, and API integration, as well as an understanding of common cybersecurity threats and detection methods.
+•	Demonstrated strong proficiency in Python, web scraping, and API integration, as well as an understanding of common cybersecurity threats and detection     methods.
 
 ## Prerequisites
 
