@@ -71,7 +71,7 @@ When prompted, input the URL you wish to analyze. The script will  assess the UR
 
 ## Future scope
 
-The URL Safety Checker has the potential for further development and improvements. The following ideas are potential avenues for enhancing the project and increasing its capabilities:
+The Web Threat Intelligence Analyzer has the potential for further development and improvements. The following ideas are potential avenues for enhancing the project and increasing its capabilities:
 
 1. Machine Learning-based Phishing Detection: Implement a machine learning model trained to recognize phishing websites using features like URL structure, page content, or hosting information. This would add a layer of intelligence to the detection process and potentially increase accuracy.
 
@@ -87,4 +87,4 @@ The URL Safety Checker has the potential for further development and improvement
 
 7. Image-based Analysis: Utilize computer vision techniques to analyze images on a website, searching for specific patterns or content indicative of scams. This can help identify scams that use images to convey their message, bypassing text-based analysis.
 
-By exploring and implementing these potential improvements, the URL Safety Checker can become an even more robust and comprehensive tool for identifying online scams and ensuring a safer browsing experience.
+By exploring and implementing these potential improvements, the Web Threat Intelligence Analyzer can become an even more robust and comprehensive tool for identifying online scams and ensuring a safer browsing experience.
